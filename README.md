@@ -42,8 +42,6 @@ python Runner.py
 
 # Enter the port number when prompted:
 Enter your port number: 5555
-
-# The evaluator will now process images and output the results
 ```
 
 This script will launch a Flask application that serves the evaluator on a local address. By default, it will run on port 5555. Follow the prompts to enter the port number (in this case, 5555) to start the evaluation process. For each image evaluated, the system will output a message indicating the class it guessed and update the score accordingly.
