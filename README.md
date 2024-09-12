@@ -14,6 +14,9 @@ This is a machine learning project designed to classify hand-drawn images from G
 - **Optimized Training:** Utilizes Adam optimizer and Sparse Categorical Crossentropy loss for efficient training on multi-class classification tasks.
 - **Model Export:** Saves trained models with timestamped filenames, making them ready for future deployment in real-world applications.
 
+## Model Performance Graph
+![Model Performance](./performance-graph.png)
+
 ## Running Predictions with the Pre-Trained Model
 
 The pre-trained model is saved as `model_20240912-174238.keras`. You can run predictions on sample images by executing the `run.py` script located in the `evaluator-Datathon` directory.
