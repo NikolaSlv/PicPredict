@@ -28,6 +28,7 @@ pip install keras Pillow numpy Flask
 
 ## Running the Evaluation
 The evaluator script used to assess the model's performance was provided by the Datathon organizers as part of the competition framework.
+Datathon Submission: ![Devpost]([./performance-graph.png](https://devpost.com/software/pictionary-plunge-2m-parameter-cnn)
 
 ```bash
 # Navigate to the evaluator-Datathon directory:
