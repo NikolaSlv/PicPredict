@@ -19,11 +19,11 @@ This is a machine learning project designed to classify hand-drawn images from G
 
 ## Running Predictions with the Pre-Trained Model
 
-The pre-trained model is saved as `model_20240912-174238.keras`. You can run predictions on sample images by executing the `run.py` script located in the `evaluator-Datathon` directory.
+The pre-trained model is saved as `model_20240912-174238.keras`. You can run predictions on sample images by executing the `run.py` script located in the `unit-test` directory.
 
 Make sure you have the necessary Python packages installed:
 ```bash
-pip install keras Pillow numpy Flask
+pip install -r requirements.txt
 ```
 
 ## Running the Evaluation

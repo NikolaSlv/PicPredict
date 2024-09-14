@@ -1,0 +1,18 @@
+# TensorFlow, which includes Keras and NumPy
+tensorflow
+# Image handling
+Pillow
+# For Flask web framework
+flask
+# For making HTTP requests
+requests
+# For handling QuickDraw datasets
+quickdraw
+# For handling JSON serialization/deserialization
+simplejson
+# For handling .ndjson files
+ndjson
+# Gunicorn for serving the Flask app
+gunicorn
+# For running TensorBoard (included in TensorFlow, but included here for explicit control)
+tensorboard
