@@ -27,11 +27,7 @@ pip install -r requirements.txt
 ```
 
 ## Running the Evaluation
-The evaluator script used to assess the model's performance was provided by TAMU Datathon organizers as part of the competition framework.\
-\
-Datathon Submission, at the time with a different project structure and a model architecture that produced less accurate results: [Devpost](https://devpost.com/software/pictionary-plunge-2m-parameter-cnn).\
-\
-Since the Datathon, the project has been revamped with an improved structure and a new, higher-performing model architecture.
+The evaluator script used to assess the model's performance was provided by TAMU Datathon organizers as part of the competition framework. Since the Datathon, the project has been revamped with an improved structure and a new, higher-performing model architecture.
 
 ```bash
 # Navigate to the evaluator-Datathon directory:
